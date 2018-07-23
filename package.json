@@ -1,0 +1,14 @@
+{
+  "name": "express-router-error-handler",
+  "version": "1.0.0",
+  "description": "Alternative way to handle errors in a express route",
+  "main": "index.js",
+  "keywords": [
+    "express",
+    "route",
+    "error",
+    "handler"
+  ],
+  "author": "Jan Armbruster",
+  "license": "MIT"
+}
