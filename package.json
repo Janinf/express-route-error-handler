@@ -9,6 +9,14 @@
     "error",
     "handler"
   ],
+  "homepage": "https://github.com/Janinf/express-route-error-handler/blob/master/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Janinf/express-route-error-handler.git"
+  },
   "author": "Jan Armbruster",
+  "bugs": {
+    "url": "https://github.com/Janinf/express-route-error-handler/issues"
+  },
   "license": "MIT"
 }
